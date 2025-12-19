@@ -45,5 +45,3 @@ A clean GUI with:
 3. Enter the amount to be converted
 4. Click on **Convert**
 5. The converted value is displayed instantly
-
-**Formula Used:**
